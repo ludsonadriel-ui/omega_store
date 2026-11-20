@@ -1,1 +1,1 @@
-# omega_store.github.io
+# omega_store
